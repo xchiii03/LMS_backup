@@ -401,7 +401,7 @@ public class ManageStudents extends javax.swing.JFrame {
         combo_courseName.setBackground(new java.awt.Color(92, 112, 117));
         combo_courseName.setFont(new java.awt.Font("Segoe UI", 0, 18)); // NOI18N
         combo_courseName.setForeground(new java.awt.Color(202, 222, 226));
-        combo_courseName.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "COE", "COED", "CBAA", "CAS", "CHAS", "CC" }));
+        combo_courseName.setModel(new javax.swing.DefaultComboBoxModel<>(new String[] { "COE", "COED", "CBAA", "CAS", "CHAS", "CCS" }));
         combo_courseName.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 combo_courseNameActionPerformed(evt);

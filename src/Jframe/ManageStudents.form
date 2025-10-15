@@ -481,7 +481,7 @@
                     <StringItem index="2" value="CBAA"/>
                     <StringItem index="3" value="CAS"/>
                     <StringItem index="4" value="CHAS"/>
-                    <StringItem index="5" value="CC"/>
+                    <StringItem index="5" value="CCS"/>
                   </StringArray>
                 </Property>
               </Properties>
